@@ -20,12 +20,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 Here are a few projects I've been working on recently:
 
 ### [Sudoku Solver](https://github.com/manuos1/SudokuSolver)
-https://sudokusolver.deno.dev
-Visual Sudoku Solver.
+Visual Sudoku Solver https://sudokusolver.deno.dev
 
 ### [Qr Code Generator](https://github.com/manuos1/qr-code-generator)
-https://qr.xoid.me
-A simple qr code generator written in python.
+A simple qr code generator written in python https://qr.xoid.me
 
 ### [Quotes API](https://quoted.deno.dev/)
 A webpage and API for random quotes.
