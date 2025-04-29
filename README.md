@@ -10,11 +10,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - 💬 Ask me about Web development, Python, JavaScript.
 - ⚡ I like adventures.
 
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=manuos1&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=manuos1&theme=blueberry&hide_border=true)
-
 ## Projects
 
 Here are a few projects I've been working on recently:
