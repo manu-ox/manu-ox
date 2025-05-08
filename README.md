@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - 🌱 I’m currently learning Data Structures and Algorithm.
 - 👯 I’m looking to collaborate on open-source projects and interesting startup ideas.
 - 💬 Ask me about Web development, Python, JavaScript.
-- ⚡ I like adventures.
 
 ## Projects
 
