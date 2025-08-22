@@ -13,15 +13,43 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 Here are a few projects I've been working on recently:
 
-### [Sudoku Solver](https://github.com/manuos1/SudokuSolver)
-Visual Sudoku Solver https://sudokusolver.deno.dev
+---
 
-### [Qr Code Generator](https://github.com/manuos1/qr-code-generator)
-A simple qr code generator written in python https://qr.xoid.me
+### DockerVerse
+https://github.com/manu-ox/DockerVerse  
+Telegram bot to manage docker containers.
 
-### [Quotes API](https://quoted.deno.dev/)
+---
+
+### Billing Software
+Demo: https://billing.xoid.me  
+An offline billing software billing software built for a client.
+
+---
+
+### Xoid Stats
+https://stats.xoid.me  
+Stats for GitHub repository
+
+---
+
+### Sudoku Solver
+https://sudokusolver.deno.dev  
+https://github.com/manu-ox/SudokuSolver  
+Visual Sudoku Solver using backtracking algorithm.
+
+---
+
+### Simple QR Code Generator
+https://qr.xoid.me  
+https://github.com/manu-ox/qr-code-generator  
+A simple qr code generator written in python.
+
+---
+
+### Quotes API
+https://quoted.deno.dev  
 A webpage and API for random quotes.
 
-## Let's Connect
+---
 
-[Portfolio](https://manukrishna.deno.dev)
